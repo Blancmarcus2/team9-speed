@@ -12,7 +12,7 @@ setup(
     name="speed",
     author="Team Project Group9 BYUI Students",
     author_email="ogunniyiowamamwen@gmail.com",
-    url="https://github.com/owamamwen1/-cse210-project-03",
+    url="https://github.com/owamamwen1/team9-speed",
     license="MIT",
     license_files=["LICENSE.md"],
     description="Tool for checking if all modules, classes, and functions have docstrings",
