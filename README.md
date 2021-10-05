@@ -55,7 +55,7 @@ root                    (project root folder)
 
 - TODO: Add your names and emails here
 - Ogunniyi Owamwmen - ogunniyiowamamwen@gmail.com
--
+- Marcus Blanc - Blancmarcus22@gmail.com
 -
 -
 -
