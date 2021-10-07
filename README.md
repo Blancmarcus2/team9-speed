@@ -56,7 +56,7 @@ root                    (project root folder)
 - TODO: Add your names and emails here
 - Ogunniyi Owamwmen - ogunniyiowamamwen@gmail.com
 - Joshua Montoya - joshuamntoya@gmail.com
--
+- Marcus Blanc - blancmarcus22@gmail.com
 -
 -
 -
