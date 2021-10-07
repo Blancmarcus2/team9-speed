@@ -1,1 +1,2 @@
-print("Write code here")
+class Screen():
+  pass

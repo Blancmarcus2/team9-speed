@@ -1,4 +1,4 @@
-# Mastermind Project
+# Introduction
 
 We are team9 group byui students
 
@@ -56,7 +56,7 @@ root                    (project root folder)
 - TODO: Add your names and emails here
 - Ogunniyi Owamwmen - ogunniyiowamamwen@gmail.com
 - Joshua Montoya - joshuamntoya@gmail.com
--
+- Noah Blevins - noah.james.blevins@gmail.com
 -
 -
 -
